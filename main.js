@@ -25,8 +25,8 @@ let restartButton;
 function preload() {
   skyBg = loadImage("./images/sky.jpg");
   summerBg = loadImage("/images/summerBeach.jpg");
-  ball = loadImage("/images/beach-ball (1).png");
-  playBall = loadImage("/images/beach-ball copy.png");
+  ball = loadImage("/images/first_ball.png");
+  playBall = loadImage("/images/second_ball.png");
   obImg = loadImage("/images/cactus.png");
   song = loadSound("/sound/magic-in-the-air-43177.mp3");
   ballSound = loadSound("/sound/mixkit-basketball-ball-hard-hit-2093.wav  ");
