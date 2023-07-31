@@ -1,6 +1,5 @@
-<p align="center"><img src="./images/beach-ball.png" width="250px" /></p>
 
-# natko22.github.io-bouncing-ball
+# Bouncing Ball
 This is my first project at Ironhack after one month of lessons.
 
 It is a simple game , with a bouncing ball,mostly inspired by the game i was playing as a kid "Kula World".
