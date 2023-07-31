@@ -23,20 +23,20 @@ let restartButton;
 
 // Load images
 function preload() {
-  skyBg = loadImage("images/sky.jpg");
-  summerBg = loadImage("images/summerBeach.jpg");
-  ball = loadImage("images/first_ball.png");
-  playBall = loadImage("images/second_ball.png");
-  obImg = loadImage("images/cactus.png");
-  song = loadSound("sound/magic-in-the-air-43177.mp3");
-  ballSound = loadSound("sound/mixkit-basketball-ball-hard-hit-2093.wav  ");
-  gameOverSound = loadSound("sound/mixkit-sad-game-over-trombone-471.wav");
-  pointsSound = loadSound("sound/mixkit-achievement-bell-600.wav");
+  skyBg = loadImage("./images/sky.jpg");
+  summerBg = loadImage("/images/summerBeach.jpg");
+  ball = loadImage("/images/beach-ball (1).png");
+  playBall = loadImage("/images/beach-ball copy.png");
+  obImg = loadImage("/images/cactus.png");
+  song = loadSound("/sound/magic-in-the-air-43177.mp3");
+  ballSound = loadSound("/sound/mixkit-basketball-ball-hard-hit-2093.wav  ");
+  gameOverSound = loadSound("/sound/mixkit-sad-game-over-trombone-471.wav");
+  pointsSound = loadSound("/sound/mixkit-achievement-bell-600.wav");
 
-  elementImg1 = loadImage("images/watermelon.png");
-  elementImg2 = loadImage("images/cocktail.png");
-  elementImg3 = loadImage("images/flower.png");
-  elementImg4 = loadImage("images/ice-cream.png");
+  elementImg1 = loadImage("/images/watermelon.png");
+  elementImg2 = loadImage("/images/cocktail.png");
+  elementImg3 = loadImage("/images/flower.png");
+  elementImg4 = loadImage("/images/ice-cream.png");
 }
 
 // Set up function
