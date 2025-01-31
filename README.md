@@ -1,4 +1,7 @@
 
+![beach-ball (1)](https://github.com/user-attachments/assets/ff9b55ef-7977-4787-90ff-1aaf9ac1dcdf)
+
+
 # Bouncing Ball
 This is my first project at Ironhack after one month of lessons.
 
@@ -13,3 +16,6 @@ Using the spacebar as your trusty tool, guide the bouncy ball through an assortm
 - Intuitive one-key gameplay – click the spacebar to control the ball's direction.
 - Challenging obstacles, including spiky cacti, to test your agility and reflexes.
 - Collectible cocktails and other captivating items that reward your dexterity with valuable points.
+
+# Live Demo
+[Bouncing Ball](https://natko22.github.io/natko22.github.io-bouncing-ball/)
