@@ -157,12 +157,12 @@ function goToGameScreen() {
 function gameover() {
   noLoop();
   background(208, 120, 121);
-  textAlign(CENTER);
+  textAlign(CENTER, CENTER);
   textStyle(ITALIC);
   textSize(80);
   text("Game Over! ", width / 2, height / 3);
   textSize(30);
-  text("Final Score: " + score, 900, 500);
+  text("Final Score: " + score, width / 2, height / 2);
   gameOverSound.setVolume(0.1);
   gameOverSound.play();
   restartButton = createButton("Restart");
