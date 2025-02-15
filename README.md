@@ -18,4 +18,4 @@ Using the spacebar as your trusty tool, guide the bouncy ball through an assortm
 - Collectible cocktails and other captivating items that reward your dexterity with valuable points.
 
 # Live Demo
-[Bouncing Ball]([https://natko22.github.io/natko22.github.io-bouncing-ball](https://bouncing-ball-22.netlify.app/)/)
+[Bouncing Ball](https://bouncing-ball-22.netlify.app/)
